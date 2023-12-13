@@ -22,11 +22,3 @@ std::string generate_random_name() {
 
     return first_names[fnd(prng)] + " " + last_names[lnd(prng)];
 }
-
-// int main() {
-//     std::string random_name = generate_random_name();
-
-//     std::cout << "Generated random name: " << random_name << std::endl;
-
-//     return 0;
-// }
