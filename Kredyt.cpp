@@ -1,10 +1,4 @@
 #include <iostream>
-// #include <vector>
-// #include <variant>
-// #include <algorithm>
-// #include "RandomNameGenerator.cpp"
-// #include <memory>
-
 using namespace std;
 
 class Kredyt
